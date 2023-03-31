@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74049293631",
+    "project_id": "tracker-a4f30",
+    "storage_bucket": "tracker-a4f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74049293631:android:ef7a36e1927c972754578a",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74049293631-hp9kn8tgu6rqlh1ljvtl0pie6rqvteoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-RDFPmt205PMjJl5Jn5fxTH3FHkuGJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74049293631-hp9kn8tgu6rqlh1ljvtl0pie6rqvteoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
